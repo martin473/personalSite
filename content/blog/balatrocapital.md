@@ -16,4 +16,4 @@ Outline: Will fill out later
 + As complexity scales to an enormous level like a multinational everything store doing international imports and exports with every product known to man and an employee size in the tens or hundreds of thousands, it's pretty much impossible for any one person to know the ins and outs of that business. It's also pretty impossible for everyone in that business to accurately communicate the ins and outs of any particular sector with people they know.
 + It is pretty easy to scrape a bunch of stats abou tthe company or sectors, and then pick growth as your target for a healthy business. If you're growing you're probably surviving.
 + If you add the stock market on top of that, any publicly traded company now lives or dies on growth, rather than just using it as a lazy success metric.
-+ And that is my grand theory on growth and capitalism (oh and throw in some healthy greed.)
++ And that is my grand theory on growth and capitalism (oh and throw in some healthy greed.) 
