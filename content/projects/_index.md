@@ -1,5 +1,4 @@
 --
 title: Projects
-next: outline
-type: docs
+weight: 1
 --

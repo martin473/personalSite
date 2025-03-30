@@ -1,9 +1,6 @@
 
 ---
 title: Outline
-type: docs
-prev: /
-next: /
 ---
 
 Describe 3 key things you made
