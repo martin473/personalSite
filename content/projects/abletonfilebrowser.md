@@ -6,7 +6,7 @@ Code: https://github.com/martin473/AbletonFileBrowserV2/blob/main/widget.py
 
 Figma design: https://www.figma.com/design/V37lQMvwPtWmxvOZyUFEef/UI-Design-Ableton-File-Browser?node-id=1-2938
 
-![image](https://i.imgur.com/y5ZkwSu.png)
+![image](https://i.imgur.com/zYBiYHG.png)
 
 Difference from v1:
 
@@ -20,7 +20,7 @@ What this software does:
 
 Select a folder, search for all .als files. Open files directly from this browser. Create a database of every file. Search, sort, favorite, tag and more. Allows for functionality ableton 11 and earlier versions did not have.
 
-![Screenshot 2025-03-30 at 7 02 47 PM](https://i.imgur.com/zYBiYHG.png)
+![Screenshot 2025-03-30 at 7 02 47 PM](https://i.imgur.com/y5ZkwSu.png)
 ![Screenshot 2025-03-30 at 7 01 47 PM](https://i.imgur.com/9keJhCA.png)
 
 Why it was deprecated:
