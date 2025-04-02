@@ -8,14 +8,7 @@ Describe 3 key things you made
 Images
     Include embeds for 3 TD and 3 P5js max
 
-Floodybot
-    Include image from fb
-    Built using XYZ software for xyz reason
-    hosted on aws windows version because R library was windows only and needed a gpu
-    Goal was to create overlap of climate flood prediction map and insurance map (created in YEAR) to raise awareness of a growing issue
-    articles on current flood insurance coverage
-    link to other things
-    deprecated bc cost to run was high and there was no serious interest, many other similar large scale projects were built and they still tend to be something scientists are trying to find a use case for
+
 
 Audio DSP software
     Explain juce dev process on linux and windows
