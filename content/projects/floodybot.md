@@ -10,9 +10,9 @@ Why:
 
 Around 2019, a prominent news org released an article warning that home insurance providers were not planning to increase coverage to match predicted climate crises. Specifically flood and fire. Around the same time, predictive flood maps for climate coverage were starting to get built. It didn't exist in a robust form then, but [climate central now has a great tool](https://coastal.climatecentral.org/). I wanted to make this more visual, creating a 3d map that people could explore. I've always felt visceral tools let people experience more abstract concepts in an approachable way. [Rayshader](https://www.rayshader.com/) looked like a good library to work with.
 
-[Rayshader](https://www.rayshader.com/reference/figures/smallfeature.png)
+![Rayshader](https://www.rayshader.com/reference/figures/smallfeature.png)
 
-[Climate Central - Small hurricane surge in 2070](https://imgur.com/YkeqDKr)
+![Climate Central - Small hurricane surge in 2070](https://imgur.com/YkeqDKr)
 
 [This article](https://ecori.org/home-insurance-costs-rise-due-to-demand-costs-of-rebuilding/) goes in depth on Rhode Island's current situation regarding flood insurance. 
 
@@ -36,7 +36,7 @@ Another early barrier was not understanding gaps in documentation and reality an
 
 I then researched cheap AWS instances, spun up a very small and cheap $10/mo AWS Windows instance. Installed and ran the software and presto it spit out this image on the webserver.
 
-[FloodyBot image output](https://imgur.com/HIqZd5r)
+![FloodyBot image output](https://imgur.com/HIqZd5r)
 
 FloodyBoy image output.
 
