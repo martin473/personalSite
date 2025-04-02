@@ -12,7 +12,7 @@ Around 2019, a prominent news org released an article warning that home insuranc
 
 ![Rayshader](https://www.rayshader.com/reference/figures/smallfeature.png)
 
-![Climate Central - Small hurricane surge in 2070](https://imgur.com/YkeqDKr)
+![Climate Central - Small hurricane surge in 2070](https://i.imgur.com/YkeqDKr.png)
 
 [This article](https://ecori.org/home-insurance-costs-rise-due-to-demand-costs-of-rebuilding/) goes in depth on Rhode Island's current situation regarding flood insurance. 
 
@@ -36,7 +36,7 @@ Another early barrier was not understanding gaps in documentation and reality an
 
 I then researched cheap AWS instances, spun up a very small and cheap $10/mo AWS Windows instance. Installed and ran the software and presto it spit out this image on the webserver.
 
-![FloodyBot image output](https://imgur.com/HIqZd5r)
+![FloodyBot image output](https://i.imgur.com/HIqZd5r.jpeg)
 
 FloodyBoy image output.
 
