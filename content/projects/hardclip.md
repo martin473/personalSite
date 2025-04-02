@@ -1,5 +1,5 @@
 ---
-title: Distortion Plugin: Hardclipper
+title: Distortion Plugin - Hardclipper
 ---
 
 Overview:
