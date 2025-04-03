@@ -1,4 +1,6 @@
-# No Plan B
+---
+title: No Plan B
+---
 Your plan B can fail. Plan C, D, all can fail.
 
 The biggest problem with plans is: You have to execute them.

@@ -1,4 +1,6 @@
-# What Annie Duke and Nate Silver forget about betting
+---
+title: What Annie Duke and Nate Silver forget about betting
+---
 A good bet is quantifiable. With poker you mix three different, measurable things together, 1) the chance my hand will improve based on the next card 2) The chance an opponent has a better hand 3) the amount of money I have to pay into the pot to see that bet through.
 
 I'm no expert on poker but here's a quick scenario. Say there's a 25% chance by hand will be a really good on the next card. And someone has bet money but it's only 20% of the pot (all the money lying on the table,) then it's a good bet. There's a 5% difference, which means if I take this bet every time, about 1 in every 4 times, I'll make 5%. Now obviously it's way way way more complex than that, but that is poker odds in a nutshell.
@@ -20,3 +22,7 @@ The issue is if you want to make a bet, how do you put percentages on outcomes. 
 So the real issue is, you live in a world with no numbers attached to things, and you need to make a bet, you need to go out there and put money, time, effort, reputation on the line, and if you want to be betting accurately, you need a model to bet with. And you don't have a model, so you have to create one or buy one. And often your skill isn't in model making, it's in something completely different, and you have no money to buy into an expensive model. So it's all good and well to say we should go out there and quantify, learn, rinse and repeat, but practically how does anyone do that if they aren't already obsessed with model making, statistics, computers, or have a ton of money to throw at analysts.
 
 The other issue is auditing models. You have to audit them constantly and they are competitive. Not only is it an issue that your own internal models or auditors could be lying to you, but there can be some underlying complexity throwing everyone in the industry off, or some adversarial mechanics your opponents are using that mess you up. So, very often, if you can build a giant predictive model, you may not always be able to trust it.
+
+As much as I like to complain though, Annie Duke has two great pieces of advice. One, create a community of betterment. Find people who will help you analyze your methods and come up with insights you couldn't see. I guarantee you have blind spots. Two, make bets on things. In your head, you don't need to do it for money. But what is the chance the bus you're waiting for comes in on time. What is the chance your boss will walk around the corner right now. You may not be entirely accurate, but you will start thinking about the things that cause the bus to be late, early, etc, and whether or not these are things you can predict. You might even start thinking about ways to get information that would predict this in the future.
+
+Good luck!

@@ -1,4 +1,6 @@
-# Making Art Without Social Media
+---
+title: Making Art Without Social Media
+---
 Social Media is all the rage these days. That's a pun based on thefact that social media companies weaponize rage against users to keep them engaged so they stay on the platforms longer and share more content.
 
 I was watcing a video yesterday about how to instantly scale your art business without getting a million followers tomorrow. And what I do now since most of the content on youtube is complete shit is I just read the transcript. My reading comprehension is extremely fast compared to listening, so I can skim through a 10 minute video in about 1 and find the main points. Then I can see if I want to dive deeper.

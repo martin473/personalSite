@@ -1,7 +1,6 @@
 ---
 title: Fast Deployments at Blade UI High
 ---
-
 My current obsession is tech stacks that are easy to setup prototype and deploy. Most projects never become enormous and there’s almost no reason for any developer to be maintaining enterprise level code on a small scale.
 
 The main reason for this is unless the enterprise toolkit is low cost and default within the framework (such as django,) you have to spend a significant amount of time working with new paradigms and building features into your software that may never get used.

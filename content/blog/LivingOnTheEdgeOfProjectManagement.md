@@ -1,4 +1,6 @@
-# Living On the Edge... of Project Management.
+---
+title: Living On the Edge... of Project Management.
+---
 The best insight I got on PM came from an industry professional.
 
 He said "I can trust every team in the company to build a good solution. I can trust them to build it in a reasonable time. The real issue is bringing 6 perfect solutions from 6 different teams together and getting them all to work. You're dealing with fog of war as a project gets closer and closer to completion. That fog of war is centered around the edges of your project.

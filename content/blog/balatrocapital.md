@@ -1,4 +1,6 @@
-# Balatro Capital: Growth is for dummies
+---
+title: Balatro Capital: Growth is for dummies
+---
 Outline: Will fill out later
 + Me: Math & Comp Sci Person, love hard games about scaling systems
 + What I Know: Short and long term limitations, often you solve for short term with all available resources, and then optimize for long term with remaining ones
