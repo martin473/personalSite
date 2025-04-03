@@ -1,5 +1,5 @@
 ---
-title: Balatro Capital: Growth is for dummies
+title: Balatro Capital - Growth is for dummies
 ---
 Outline: Will fill out later
 + Me: Math & Comp Sci Person, love hard games about scaling systems
