@@ -6,7 +6,7 @@ toc: false
   I'm Sawyer Sweet, a dev who loves audio tech. Check out my [github](http://www.github.com/martin473)
 {{< /callout >}}
 {{< callout emoji="🟦" >}}
-  I'm open to work and you can always reach out via [linkedin](http://www.linkedin.com/in/sawyersweet)
+  I'm open to work. Reach out via [linkedin](http://www.linkedin.com/in/sawyersweet)
 {{< /callout >}}
 
 {{< cards >}}
