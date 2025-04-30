@@ -10,8 +10,8 @@ toc: false
 {{< /callout >}}
 
 {{< cards >}}
-  {{< card link="/projects/abletonfilebrowser" title="Ableton File Browser" image="https://i.imgur.com/zYBiYHG.png" subtitle="Organize your messy projects!" tag="Project"  method="Resize" options="100x200">}}
+  {{< card link="/projects/abletonfilebrowser" title="Ableton File Browser" image="/thumbnails/abletonfb.png" subtitle="Organize your messy projects!" tag="Project">}}
   {{< card link="/projects/floodybot" title="FloodyBot" image="/thumbnails/floody.jpeg" subtitle="Is your dream home in a climate flood zone?" tag="Project">}}
-  {{< card link="/projects/hardclip" title="Hardclip Audio Distortion" image="https://www.fruityloopssamples.com/wp-content/uploads/2013/08/fx_clip1.jpg" subtitle="Get loud! Made in JUCE/C++" tag="Project" method="Fill" options="100x200">}}
+  {{< card link="/projects/hardclip" title="Hardclip Audio Distortion" image="/thumbnails/hardclip.jpg" subtitle="Get loud! Made in JUCE/C++" tag="Project">}}
   {{< card link="/blog/What Annie Duke and Nate Silver forget about betting" title="What Annie Duke and Nate Silver forget about betting" image="/thumbnails/annieduke.jpg" subtitle="Life is a model makers nightmare" tag="Blog">}}
 {{< /cards >}}
