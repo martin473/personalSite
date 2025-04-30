@@ -1,6 +1,6 @@
 ---
 title: Oops! I'm 5 Paradigms Deep!
-wieght: -8
+weight: -7
 ---
 Modern development often involves modern frameworks that are built on top of not one but two or more frameworks.
 
