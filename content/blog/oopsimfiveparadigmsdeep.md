@@ -1,5 +1,6 @@
 ---
 title: Oops! I'm 5 Paradigms Deep!
+date: 4-29-2025
 # Parse Git commit
 enableGitInfo: true
 
