@@ -1,13 +1,6 @@
 ---
 title: Oops! I'm 5 Paradigms Deep!
-date: 4-29-2025
-# Parse Git commit
-enableGitInfo: true
-
-params:
-  # Display the last modification date
-  displayUpdatedDate: true
-  dateFormat: "January 2, 2006"
+wieght: 1
 ---
 Modern development often involves modern frameworks that are built on top of not one but two or more frameworks.
 

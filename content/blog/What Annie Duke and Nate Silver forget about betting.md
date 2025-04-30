@@ -1,5 +1,6 @@
 ---
 title: What Annie Duke and Nate Silver forget about betting
+weight: 2
 ---
 A good bet is quantifiable. With poker you mix three different, measurable things together, 1) the chance my hand will improve based on the next card 2) The chance an opponent has a better hand 3) the amount of money I have to pay into the pot to see that bet through.
 
