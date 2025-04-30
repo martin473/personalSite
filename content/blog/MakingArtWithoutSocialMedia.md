@@ -1,5 +1,6 @@
 ---
 title: Making Art Without Social Media
+weight: -2
 ---
 Social Media is all the rage these days. That's a pun based on thefact that social media companies weaponize rage against users to keep them engaged so they stay on the platforms longer and share more content.
 
