@@ -1,5 +1,6 @@
 ---
 title: Balatro Capital - Growth is for dummies
+weight: -5
 ---
 Outline: Will fill out later
 I am a big time math and comp sci person with a penchant for hard games about growth and scaling systems (Power Grid, Slay the Spire, Balatro).

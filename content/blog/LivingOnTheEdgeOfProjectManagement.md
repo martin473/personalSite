@@ -1,5 +1,6 @@
 ---
 title: Living On the Edge... of Project Management.
+weight: -4
 ---
 The best insight I got on PM came from an industry professional.
 

@@ -1,5 +1,6 @@
 ---
 title: Fast Deployments at Blade UI High
+weight: -6
 ---
 My current obsession is tech stacks that are easy to setup prototype and deploy. Most projects never become enormous and there’s almost no reason for any developer to be maintaining enterprise level code on a small scale.
 
