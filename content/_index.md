@@ -1,5 +1,6 @@
 ---
 toc: false
+theme: hextra-home
 ---
 ## I'm Sawyer Sweet!
 

@@ -52,7 +52,7 @@ params:
       height: 40
   
   page:
-    width: full
+    width: normal
 
   footer:
     displayCopyright: false
