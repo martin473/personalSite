@@ -43,7 +43,13 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: icons/me.png
+      dark: icons/me.png
+      link: /
+      width: 40
+      height: 40
 
   footer:
     displayCopyright: false

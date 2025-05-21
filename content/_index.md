@@ -15,3 +15,4 @@ Here are a few of my **favorites!**
   {{< card link="/blog/oopsimfiveparadigmsdeep" title="Oops, I'm Five Paradigms Deep!" image="/thumbnails/Why-Do-Turtles-Stack.jpg" subtitle="Universal paradigm? Or paradigms all the way down?" tag="Blog">}}
   {{< card link="/blog/what-annie-duke-and-nate-silver-forget-about-betting" title="What Annie Duke and Nate Silver forget about betting" image="/thumbnails/annieduke.jpg" subtitle="Life is a model makers nightmare" tag="Blog">}}
 {{< /cards >}}
+
