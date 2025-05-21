@@ -28,7 +28,7 @@ menu:
       pageRef: /about
       weight: 3
       name: GitHub
-      pageRef: /about
+      pageRef: /projects
       weight: 4
 
 params:
