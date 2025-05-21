@@ -27,6 +27,9 @@ menu:
     - name: About
       pageRef: /about
       weight: 3
+      name: GitHub
+      pageRef: /about
+      weight: 4
 
 params:
   navbar:
