@@ -28,11 +28,13 @@ menu:
       pageRef: /about
       weight: 3
       name: GitHub
-      pageRef: https://github.com/martin473
-      weight: 4
+      url: https://github.com/martin473
+      params:
+        icon: github
       name: LinkedIn
-      pageRef: https://www.linkedin.com/in/sawyersweet/
-      weight: 5
+      url: https://www.linkedin.com/in/sawyersweet/
+      params:
+        icon: linkedin
 
 params:
   navbar:
