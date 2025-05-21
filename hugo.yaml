@@ -27,9 +27,6 @@ menu:
     - name: About
       pageRef: /about
       weight: 3
-      name: GitHub
-      url: https://github.com/martin473
-      weight: 4
 
 params:
   navbar:
