@@ -30,9 +30,11 @@ menu:
       url: https://github.com/martin473
       params:
         icon: github
+      weight: 4
       url: https://linkedin.com/in/sawyersweet
       params:
         icon: linkedin
+      weight: 5
       
 
 params:
