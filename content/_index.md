@@ -3,7 +3,7 @@ toc: false
 ---
 ## I'm Sawyer Sweet!
 
-I make **products that transform** how people work.
+I make **products** that **transform** how people work.
 
 I write about **big ideas** and the **tangled-up middle** behind business, engineering, and science.
 
