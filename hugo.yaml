@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: Sawyer Sweet
+theme: ["hextra"]
 
 # import hextra as module
 module:
