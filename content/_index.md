@@ -1,13 +1,13 @@
 ---
 toc: false
 ---
-I'm Sawyer Sweet!
+## I'm Sawyer Sweet!
 
-I love coding products that transform how people create.
+I make **products that transform** how people work.
 
-I love writing about the excitingly big, mind-bogglingly small, and tangled-up middle-parts of how the world works.
+I write about **big ideas** and the **tangled-up middle** behind business, engineering, and science.
 
-Here are my favorite projects and blog posts. If you want to take a deep dive, use the menu above to see more.
+Here are a few of my **favorites!**
 
 {{< cards >}}
   {{< card link="/projects/abletonfilebrowser" title="Ableton File Browser" image="/thumbnails/abletonfb.png" subtitle="Organize your messy projects!" tag="Project">}}
