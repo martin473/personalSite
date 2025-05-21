@@ -24,11 +24,8 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: About
-      pageRef: /about
-      weight: 3
       name: GitHub
-      pageRef: /projects
+      url: https://github.com/martin473
       weight: 4
 
 params:
