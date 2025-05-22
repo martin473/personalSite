@@ -5,6 +5,7 @@ toc: false
 
 I make **products** that **transform** how people work. I write about **big ideas** and the **tangled-up middle** behind business, engineering, and science. Here are a few of my **favorites!**
 
+
 {{< cards >}}
   {{< card link="/projects/abletonfilebrowser" title="Ableton File Browser" image="/thumbnails/abletonfb.png" subtitle="Organize your messy projects!" tag="Project">}}
   {{< card link="/projects/floodybot" title="FloodyBot" image="/thumbnails/floody.jpeg" subtitle="Is your dream home in a climate flood zone?" tag="Project">}}
