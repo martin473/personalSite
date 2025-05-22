@@ -30,7 +30,7 @@ Here are a few of my **favorites!**
     subtitle="The flood robot"
     class="relative size-32 hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="/thumbnails/floody.jpeg"
-    imageClass="absolute fill inset-0 dark:hx-opacity-80"
+    imageClass="absolute content-center hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
     link="/docs"
   >}}
