@@ -1,6 +1,5 @@
 ---
 toc: false
-theme: hextra-home
 ---
 ## I'm Sawyer Sweet!
 
@@ -21,7 +20,6 @@ Here are a few of my **favorites!**
     subtitle="Life is a model makers nightmare" 
     tag="Blog"
     class="relative size-32 hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="/thumbnails/floody.jpeg"
     imageClass="hx-w-[180%] sm:hx-w-[110%] inset-0 dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));">}}
 {{< /cards >}}
