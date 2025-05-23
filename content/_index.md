@@ -11,3 +11,6 @@ I make **products** that **transform** how people work. I write about **big idea
   {{< card link="/projects/floodybot" title="FloodyBot" image="/thumbnails/floody.jpeg" subtitle="Is your dream home in a climate flood zone?" tag="Project">}}
   {{< card link="/blog/oopsimfiveparadigmsdeep" title="Oops, I'm Five Paradigms Deep!" image="/thumbnails/Why-Do-Turtles-Stack.jpg" subtitle="Universal paradigm? Or paradigms all the way down?" tag="Blog">}}
 {{< /cards >}}
+
+[Audio Engineering](https://open.spotify.com/artist/4Ihj7e53fbPdWe0sKeRPEy)  
+[Animation, graphics, and video work](https://vimeo.com/996398920)
