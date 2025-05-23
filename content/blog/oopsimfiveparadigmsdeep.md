@@ -4,7 +4,7 @@ weight: -7
 ---
 ### Modern development uses frameworks that are built on top of not one but two or more frameworks.
 
-![center](/content/thumbnails/Why-Do-Turtles-Stack.jpg "It's paradigms all the way down")
+![center](/../thumbnails/Why-Do-Turtles-Stack.jpg "It's paradigms all the way down")
 
 __This website is a perfect example.__
 
