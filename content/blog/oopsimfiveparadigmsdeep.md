@@ -4,6 +4,8 @@ weight: -7
 ---
 ### Modern development uses frameworks that are built on top of not one but two or more frameworks.
 
+![center](/content/thumbnails/Why-Do-Turtles-Stack.jpg "It's paradigms all the way down")
+
 __This website is a perfect example.__
 
 It uses __Hextra,__ which is a flavor __Hugo, Tailwind, and NextJS.__ Tailwind and Next are flavors of __CSS__ and __React__ (a flavor of __Javascript__.) Hugo itself is a flavor of __Go.__ The specific file for __this blog post__ is in __Markdown__, which is interpreted by a __Goldmark__ flavor of markdown, read by Go and assembled with many other disparate files to create __this single page__. 
