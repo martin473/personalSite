@@ -5,7 +5,7 @@ weight: -7
 ### Modern development uses frameworks that are built on top of not one but two or more frameworks.
 
 <p align="center">
-  <img src="/../thumbnails/Why-Do-Turtles-Stack.jpg" />
+  <img src="https://theaquariumguide.com/wp-content/uploads/2021/10/image-25.jpeg" />
 </p>
 
 __This website is a perfect example.__
