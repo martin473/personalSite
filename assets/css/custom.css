@@ -3,11 +3,17 @@
 @font-face {
   font-family: "Phosphene";
   src: url('content/fonts/PhospheneFont-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
   font-family: "Saint";
   src: url('content/fonts/Saint-Regular.ttf') format('truetype');
+}
+
+.content {
+  font-family: "Phosphene", sans-serif;
 }
 
 :root {
