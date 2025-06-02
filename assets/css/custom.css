@@ -1,5 +1,15 @@
 @import "tailwind.css";
 
+@font-face {
+  font-family: "Phosphene";
+  src: url('content/fonts/PhospheneFont-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Saint";
+  src: url('content/fonts/Saint-Regular.ttf') format('truetype');
+}
+
 :root {
   --background-color: #dbe6ef;
   --text-color: rgba(107, 114, 128, 1);
