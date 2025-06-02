@@ -8,12 +8,16 @@
 }
 
 @font-face {
-  font-family: "Saint";
-  src: url('content/fonts/Saint-Regular.ttf') format('truetype');
+  font-family: 'Saint';
+  src: url('../../content/fonts/Saint-Regular.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'Saint';
 }
 
 body {
-  font-family: "Phosphene", sans-serif;
+  font-family: 'Phosphene', sans-serif;
 }
 
 :root {
