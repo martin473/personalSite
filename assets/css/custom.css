@@ -12,7 +12,7 @@
   src: url('content/fonts/Saint-Regular.ttf') format('truetype');
 }
 
-.content {
+p {
   font-family: "Phosphene", sans-serif;
 }
 
